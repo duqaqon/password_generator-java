@@ -10,7 +10,7 @@ This is a more advanced version of my password generator and it's also part of m
 
 I think it's the same in Echlipse too.
 
-## Lisence
+## Licence
 You may use this project under the [MIT](https://choosealicense.com/licenses/mit/) license.
 
 Just a part of my Java learning journey. Use this if you want.
